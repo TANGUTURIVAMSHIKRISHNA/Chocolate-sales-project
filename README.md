@@ -31,6 +31,7 @@ Performance of Sales Person
 
 
 📌 Learnings:
+
 -Learned how to handle large datasets efficiently in Power BI.
 
 -Enhanced corporate intelligence through the analysis of sales data.
