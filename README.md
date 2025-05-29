@@ -1,4 +1,4 @@
-# Unlocking-Sales-Project
+# Chocolate-Sales-Project
 This project uses Power BI to visualize the results of a thorough data study of chocolate sales. With more than 4000 records, the dataset provides comprehensive insights into product sales, sales by region, and sales performance.
 
 🧰 Tools Used:
