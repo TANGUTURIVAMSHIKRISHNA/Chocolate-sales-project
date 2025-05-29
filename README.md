@@ -26,13 +26,15 @@ Performance of Sales Person
 
 📎 Dataset:  
 - Product Catalog: Includes Product names, Categories, pricing, and descriptions.
--Sales Transactions: Contains date, Product, Quantity sold, Sales amount, Region, etc.
+- Sales Transactions: Contains date, Product, Quantity sold, Sales amount, Region, etc.
 - Sales Team Performance: Lists sales reps, total sales by individual.
 
 
 📌 Learnings:
 Learned how to handle large datasets efficiently in Power BI.
+
 Enhanced corporate intelligence through the analysis of sales data.
+
 Improved dashboard storytelling and visual design principles.
 
 📷 Screenshots:
