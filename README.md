@@ -3,6 +3,7 @@ This project uses Power BI to visualize the results of a thorough data study of 
 
 🧰 Tools Used:
 Power BI – for creating interactive dashboards and data storytelling
+
 Excel – for initial exploration and data inspection
 
 🧠 Key Objectives:
@@ -13,15 +14,21 @@ Excel – for initial exploration and data inspection
 📊 Power BI Dashboard Highlights:
 
 Interactive filters by Date Range,Product Category,Country Filter,Sales Rep Filter
+
 KPIs: - Total Revenue,Total Units Sold,Sales by Region,Top-Selling Product Contribution
+
 Visuals: Bar charts, Donut charts, Line graphs,Tables
+
 Earnings of Each Month
+
 Performance of Sales Person
 
 
 📎 Dataset:  
 -Sales Transactions: Contains date, Product, Quantity sold, Sales amount, Region, etc.
+
 - Product Catalog: Includes Product names, Categories, pricing, and descriptions.
+- 
 - Sales Team Performance: Lists sales reps, total sales by individual.
 
 
