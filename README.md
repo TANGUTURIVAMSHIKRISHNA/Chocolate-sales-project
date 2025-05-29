@@ -25,10 +25,10 @@ Performance of Sales Person
 
 
 📎 Dataset:  
--Sales Transactions: Contains date, Product, Quantity sold, Sales amount, Region, etc.
-
 - Product Catalog: Includes Product names, Categories, pricing, and descriptions.
 - 
+-Sales Transactions: Contains date, Product, Quantity sold, Sales amount, Region, etc.
+
 - Sales Team Performance: Lists sales reps, total sales by individual.
 
 
